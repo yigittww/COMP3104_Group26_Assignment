@@ -1,1 +1,2 @@
 DevOps is crucial for the Software Development Life Cycle. 
+CI/CD ensures code quality and faster deployments. 
