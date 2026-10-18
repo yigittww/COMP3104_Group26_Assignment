@@ -1,2 +1,3 @@
 DevOps is crucial for the Software Development Life Cycle. 
 CI/CD ensures code quality and faster deployments. 
+Automation is the key to a modern and secure SDLC. 
