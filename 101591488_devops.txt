@@ -1,1 +1,2 @@
 DevOps combines development and IT operations. 
+In COMP 2156, we focus on automation. 
