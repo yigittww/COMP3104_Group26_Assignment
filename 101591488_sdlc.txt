@@ -1,1 +1,2 @@
 SDLC stands for Software Development Life Cycle. 
+DevOps accelerates the SDLC phases significantly. 
