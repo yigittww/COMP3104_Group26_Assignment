@@ -1,0 +1,4 @@
+SDLC stands for Software Development Life Cycle. 
+DevOps accelerates the SDLC phases significantly. 
+Testing and deployment are automated. 
+Collaboration is essential in modern SDLC. 

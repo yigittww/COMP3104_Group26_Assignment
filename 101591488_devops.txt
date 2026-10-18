@@ -1,0 +1,3 @@
+DevOps combines development and IT operations. 
+In COMP 2156, we focus on automation. 
+Version control is a critical part of the course. 
